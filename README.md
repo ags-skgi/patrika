@@ -83,7 +83,7 @@ Each block is separated by a horizontal line written across the page.
 
 ### Layout example
 
-Photo of the below example is at ![Example paper format](../demo/ex_photo.jpeg)
+Photo of the below example is at ![Example paper format](demo/ex_photo.jpeg)
 
 
 
