@@ -76,26 +76,27 @@ Output files are saved to `~/Documents/iitm/mathi/`.
 ## Paper format
 
 The system reads handwriting on Anoto dotted paper in a specific layout.
-Each block is separated by a horizontal line (`x-----------------x`).
+Each block is separated by a horizontal line written across the page.
 
-### Layout example (from actual paper)
-x-----------------x
-Q8    Find the roots of x²-6x+8                        (2)
-A
-M1a  Factorises expression to (x-4)(x-2)         (1)
-M1b  Writes equations of the form
-a+b=-6 ; ab=8 and correctly
-solves for a,b                              (1)
-M1c  Applies quadratic formula x=(-b±√b²-4ac)/2a
-with a,b,c correctly identified             (1)
-M2   States correct roots
-x = +4                                     (½)
-M3   and x = +2                                 (½)
-x-----------------x
-S1    x=+3  x=4  x=+4
-S2    x²-6x+8 = (x-4)(x-2)
-⟹ x=4, x=2
-x-----------------x
+### Layout example
+
+    x-----------------x
+    Q8    Find the roots of x²-6x+8                        (2)
+    A
+          M1a  Factorises expression to (x-4)(x-2)         (1)
+          M1b  Writes equations of the form
+               a+b=-6 ; ab=8 and correctly
+               solves for a,b                              (1)
+          M1c  Applies quadratic formula x=(-b±√b²-4ac)/2a
+               with a,b,c correctly identified             (1)
+          M2   States correct roots
+               x = +4                                      (½)
+          M3   and x = +2                                  (½)
+    x-----------------x
+    S1    x=+3  x=4  x=+4
+    S2    x²-6x+8 = (x-4)(x-2)
+          ⟹ x=4, x=2
+    x-----------------x
 
 ### Codes written on the left margin
 
