@@ -1,1 +1,0 @@
-Example of photo parsed
