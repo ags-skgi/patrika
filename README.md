@@ -83,6 +83,10 @@ Each block is separated by a horizontal line written across the page.
 
 ### Layout example
 
+Photo of the below example is at ![Example paper format](../demo/ex_photo.jpeg)
+
+
+
     x-----------------x
     Q8    Find the roots of x²-6x+8                        (2)
     A
