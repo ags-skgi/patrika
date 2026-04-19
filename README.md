@@ -5,6 +5,9 @@ Automated handwritten assessment platform.
 ## What it does
 Students write on dotted paper (e.g Anoto) with an infrared pen. Patrika captures handwriting in real time, renders a structured digital assessment with solution replay, and delivers feedback to both student and teacher.
 
+**Demo video:** 
+https://youtu.be/MrDMNqjp7Dk
+
 ## Why it matters
 - Eliminates 5–10 hours/week of manual marking per educator
 - Physical writing workflow — no scanning or typing
