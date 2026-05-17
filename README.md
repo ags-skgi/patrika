@@ -16,11 +16,10 @@ https://youtu.be/MrDMNqjp7Dk
 - Built-in contestation workflow and multilingual grading
 
 ## Traction
-- First paying customer: 40-unit order, Tempah Digital Sdn. Bhd. (Malaysia)
+- Pilot: IITM Engineering Design exams
 - Pilot: IITM MSc Physics lab assessments
 - Pilot: IITM Global Engagement Centre
-- Sterling Road Imperial College Grant (2025)
-- Provisional patent filed (India)
+  
 
 ## Tech stack
 - IR pen + dotted paper capture (here we've used Anoto paper pattern and INQ pens)
